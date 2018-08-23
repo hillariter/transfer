@@ -1,8 +1,8 @@
-package com.valex.test.config;
+package com.valex.transfer.config;
 
 import com.google.inject.AbstractModule;
-import com.valex.test.processor.AccountProcessor;
-import com.valex.test.processor.DebitAccountProcessor;
+import com.valex.transfer.processor.AccountProcessor;
+import com.valex.transfer.processor.DebitAccountProcessor;
 
 /**
  * Created by user on 8/23/18.

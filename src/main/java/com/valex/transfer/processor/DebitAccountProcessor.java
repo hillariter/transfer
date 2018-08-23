@@ -1,6 +1,6 @@
-package com.valex.test.processor;
+package com.valex.transfer.processor;
 
-import com.valex.test.model.Account;
+import com.valex.transfer.model.Account;
 
 /**
  * Created by user on 8/23/18.

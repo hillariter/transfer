@@ -1,4 +1,4 @@
-package com.valex.test.model;
+package com.valex.transfer.model;
 
 /**
  * Created by user on 8/23/18.

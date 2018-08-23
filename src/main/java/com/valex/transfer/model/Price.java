@@ -1,4 +1,4 @@
-package com.valex.test.model;
+package com.valex.transfer.model;
 
 import java.math.BigDecimal;
 

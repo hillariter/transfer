@@ -1,4 +1,4 @@
-package com.valex.test;
+package com.valex.transfer;
 
 /**
  * Created by user on 8/23/18.
